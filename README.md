@@ -34,6 +34,3 @@ README.md – Project description
 
 
 
-**Data Availability**
-
-Due to ethical and privacy restrictions, raw metabolomics data are not publicly available.
