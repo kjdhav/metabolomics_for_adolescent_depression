@@ -4,7 +4,7 @@ This repository contains the R scripts used for the data analysis presented in t
 
 The study identified altered metabolite signatures in clinically depressed adolescents compared to healthy adolescents. Serum metabolite profiling was performed using a high-throughput targeted NMR platform.
 
-Both multivariate and univariate statistical approaches were applied:
+Both univariate and multivariate statistical approaches were applied:
 
 Linear regression models for metabolite-specific association testing
 
